@@ -1,6 +1,6 @@
 # ✦ BoothBloom — Korean Aesthetic Photobooth
 
-Sistem photobooth modern dengan estetik Korea, dibangun menggunakan **PyQt6** + **OpenCV** untuk Pop!_OS / Linux.
+Sistem photobooth modern dengan estetik Korea, dibangun menggunakan **PyQt6** + **OpenCV** 
 
 ---
 
